@@ -1,0 +1,12 @@
+{
+  "id": "saldopaypal",
+  "name": "SaldoPayPal.id",
+  "version": "1.0.0",
+  "description": "SaldoPayPal.id",
+  "main": "index.js",
+  "author": "Ahmad Zafrullah <zaf@elektro08.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://saldopaypal.id"
+  }
+}
