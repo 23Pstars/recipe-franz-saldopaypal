@@ -7,6 +7,6 @@
   "author": "Ahmad Zafrullah <zaf@elektro08.com>",
   "license": "MIT",
   "config": {
-    "serviceURL": "https://saldopaypal.id"
+    "serviceURL": "https://saldopaypal.id/admin/SaldoPayPal2018"
   }
 }
